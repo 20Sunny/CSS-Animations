@@ -14,6 +14,3 @@ let urlAnimate = () => {
 };
 
 urlAnimate(); // Start the animation
-
-
-</script>
